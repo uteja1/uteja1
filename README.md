@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @uteja1
+- 👋 Hi, I’m uday
 - 👀 I’m interested in backend development.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uteja1&show_icons=true&locale=en&layout=compact&theme=react" alt="uteja1" /></p>
